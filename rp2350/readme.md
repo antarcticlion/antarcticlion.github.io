@@ -1,3 +1,13 @@
+R2P2 picoruby RP2350 ファームウェア UF2バイナリ 20251228版  オリジナルビルド  
+  ビルド不良だけを反映したオリジナルです。  
+  改造版との動作の比較のために用意しました。
+  
+RP2350用 R2P2 フラッシュメモリ 2MB オリジナル  
+https://github.com/antarcticlion/antarcticlion.github.io/raw/refs/heads/main/rp2350/R2P2-PICORUBY-PICO2-0.5.0-20251228-4521b68a_stable.uf2  
+  
+----  
+以下は改造版です。  
+  
 R2P2 picoruby RP2350 ファームウェア UF2バイナリ 20251228版  
   
 変更点  
