@@ -14,11 +14,11 @@ https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html#soft
 ----  
 ファイル一覧  
   
-※順次追加します。  
-  
 RP2350用 R2P2 フラッシュメモリ 4MB版  
-https://github.com/antarcticlion/antarcticlion.github.io/raw/refs/heads/modified-R2P2-and-Picoruby-RP2350-uf2-binarys-modified-R2P2-and-Picoruby-RP2350-uf2-binarys-distribution/rp2350/R2P2-PICORUBY-PICO2_4MB-0.5.0-20251227-0353244_Mod_150MHz_4MB_MR_BE.uf2  
+https://github.com/antarcticlion/antarcticlion.github.io/raw/refs/heads/main/rp2350/R2P2-PICORUBY-PICO2_4MB-0.5.0-20251228-d20aa38_Mod_150MHz_4MB_MR_BE.uf2  
   
+RP2350用 R2P2 フラッシュメモリ 16MB版  
+https://github.com/antarcticlion/antarcticlion.github.io/raw/refs/heads/main/rp2350/R2P2-PICORUBY-PICO2_COMPAT_16MB-0.5.0-20251228-d20aa38_Mod_150MHz_16MB_MR_BE.uf2  
   
 ----  
 アーカイブ  
